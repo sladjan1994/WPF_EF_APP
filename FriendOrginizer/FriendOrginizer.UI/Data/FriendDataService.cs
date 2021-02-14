@@ -18,7 +18,7 @@ namespace FriendOrginizer.UI.Data
         }
         public async Task<List<Friend>> GetAllAsync()
         {
-            using (var ctx = _contextCreator()) //skontaj sto treba using ovdje, samo ga nudi
+            using (var ctx = _contextCreator()) //skontaj sto treba using ovdje
             {
                return await ctx.Friends.AsNoTracking().ToListAsync();
                 //await Task.Delay(5000);
