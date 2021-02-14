@@ -1,0 +1,16 @@
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.DataAccess\bin\Debug\FriendOrginizer.DataAccess.dll
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.DataAccess\bin\Debug\FriendOrginizer.DataAccess.pdb
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.DataAccess\bin\Debug\FriendOrginizer.Model.dll
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.DataAccess\bin\Debug\FriendOrginizer.Model.pdb
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.DataAccess\obj\Debug\FriendOrginizer.DataAccess.csprojAssemblyReference.cache
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.DataAccess\obj\Debug\FriendOrginizer.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.DataAccess\obj\Debug\FriendOrginizer.DataAccess.csproj.CopyComplete
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.DataAccess\obj\Debug\FriendOrginizer.DataAccess.dll
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.DataAccess\obj\Debug\FriendOrginizer.DataAccess.pdb
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.DataAccess\bin\Debug\FriendOrginizer.DataAccess.dll.config
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.DataAccess\obj\Debug\FriendOrginizer.DataAccess.Migrations.InitialDatabase.resources
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.DataAccess\obj\Debug\FriendOrginizer.DataAccess.csproj.GenerateResource.cache

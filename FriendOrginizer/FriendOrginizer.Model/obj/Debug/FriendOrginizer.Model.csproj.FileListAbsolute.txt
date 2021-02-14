@@ -1,0 +1,6 @@
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.Model\bin\Debug\FriendOrginizer.Model.dll
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.Model\bin\Debug\FriendOrginizer.Model.pdb
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.Model\obj\Debug\FriendOrginizer.Model.csprojAssemblyReference.cache
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.Model\obj\Debug\FriendOrginizer.Model.csproj.CoreCompileInputs.cache
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.Model\obj\Debug\FriendOrginizer.Model.dll
+C:\Users\sladjan.acimovic\Desktop\folder\FriendOrginizer\FriendOrginizer.Model\obj\Debug\FriendOrginizer.Model.pdb
